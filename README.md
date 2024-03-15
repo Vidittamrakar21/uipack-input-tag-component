@@ -3,12 +3,12 @@
  UI Input Tag component for React.js / Next.js to create tags in an input  
 
 ## Install
-`npm i uipack-input-tag-component`
+```npm i uipack-input-tag-component```
 
 
 ## Include
 
-`import {InputTag}from  'uipack-input-tag-component'`;
+`import {InputTag}from  'uipack-input-tag-component';`
 
 ## Usage
 
@@ -35,3 +35,5 @@ To get the tags that are marked in the input box,  create a function and pass th
 
 [DEMO](https://uipack-input-tag-component.netlify.app/)
 
+
+### Made with ❤️ by Vidit Tamrakar
