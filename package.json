@@ -1,6 +1,6 @@
 {
   "name": "uipack-input-tag-component",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "type": "module",
   "description": "",
   "main": "dist/index.js",
@@ -8,7 +8,7 @@
   "scripts": {
     "build": "npx rollup -c"
   },
-  "keywords": [],
+  "keywords": ["Input Tag Component", "UI Package", "React-Component"],
   "author": "",
   "license": "ISC",
   "devDependencies": {
