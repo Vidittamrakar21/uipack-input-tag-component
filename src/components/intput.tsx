@@ -68,4 +68,4 @@ function InputTag (props: propstype) {
     )
 }
 
-export default InputTag;
+export {InputTag};
