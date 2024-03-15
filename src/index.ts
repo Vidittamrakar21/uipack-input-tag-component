@@ -1,1 +1,1 @@
-export * from './components/intput'
+export {InputTag} from './components/intput'
